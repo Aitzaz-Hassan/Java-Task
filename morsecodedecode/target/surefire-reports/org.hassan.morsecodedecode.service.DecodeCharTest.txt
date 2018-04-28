@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.hassan.morsecodedecode.service.DecodeCharTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 s - in org.hassan.morsecodedecode.service.DecodeCharTest
